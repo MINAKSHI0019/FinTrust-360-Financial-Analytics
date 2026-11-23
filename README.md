@@ -33,4 +33,4 @@ FinTrust 360 is a data analytics project that analyses customer complaints in th
 The project provides insights into customer complaint patterns and company response performance. It also suggests improvements to complaint handling and customer service.
 
 ## Author
-Created as a data analytics project.
+Created by Minakshi Kumari.
