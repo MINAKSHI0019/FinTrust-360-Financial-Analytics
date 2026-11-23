@@ -1,6 +1,4 @@
 # FinTrust 360 – Financial Customer Complaints & Response Analytics
-## Power BI Dashboard
-![FinTrust 360 Dashboard](Dashboard_Screenshot.png)
 
 ## Project Description
 FinTrust 360 is a data analytics project that analyses customer complaints in the financial services industry. It identifies common customer issues, compares complaints across financial products and evaluates company response performance.
@@ -28,6 +26,8 @@ FinTrust 360 is a data analytics project that analyses customer complaints in th
 - Complaints by Financial Product
 - Most Reported Customer Issues
 - Timely Response Rate by Company
+
+![FinTrust 360 Dashboard](Dashboard_Screenshot.png)
 
 ## Project Outcome
 The project provides insights into customer complaint patterns and company response performance. It also suggests improvements to complaint handling and customer service.
